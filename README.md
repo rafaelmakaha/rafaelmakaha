@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Smart Fit](https://smartfit.com.br)
 - 🌱 I’ve graduated on [Software Engineering](https://fga.unb.br/)
-- 💻 I`m the main maintainer of [BROMS](https://github.com/rafaelmakaha/maratona-BROMS)
+- 💻 I've started [BROMS](https://github.com/rafaelmakaha/maratona-BROMS) as my graduation project.
 - 👯 I’m looking to collaborate on [BOCA](https://github.com/cassiopc/boca/) and [rAthena](https://github.com/rathena/rathena)
 - 📫 How to reach me: rafael.makaha@gmail.com
 
